@@ -77,7 +77,7 @@
               />
             </a-form-item>
             <a-button status="danger" @click="handleDelete(index)">
-              删除
+              删除测试用例
             </a-button>
           </a-space>
         </a-form-item>
